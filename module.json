@@ -3,7 +3,7 @@
   "name": "accounting-customer-payments-api",
   "display_name": "Accounting Customer Payments API",
   "description": "HTTP API for customer payments and allocations.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\Accounting\\CustomerPaymentsApi\\CustomerPaymentsApiServiceProvider",
   "requires": {
